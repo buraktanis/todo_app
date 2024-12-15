@@ -20,6 +20,7 @@ List<String> completed = ["Game meetup", "Take out trash"];
 class _MyAppState extends State<MyApp> {
   // This widget is the root of your application.
   bool isChecked = false;
+  bool isChecked2 = false;
 
   @override
   Widget build(BuildContext context) {
