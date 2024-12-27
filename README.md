@@ -1,16 +1,5 @@
-# todo_app
+# Comprehensive Todo App
 
-A new Flutter project.
+It is a Comprehensive Todo App that allows users to add, edit, and prioritize tasks, set reminders, and organize tasks with categories and tags. It offers cloud sync, user authentication, advanced search, mobile compatibility, and team management features for efficient task tracking. (The design was inspired by a pre-made template.)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/e501dfd0-6337-4395-8418-c2ffae94754d)
